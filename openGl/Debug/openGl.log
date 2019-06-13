@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\opengl\opengl\main.cpp(63): warning C4101: 'EBO': unreferenced local variable
+  openGl.vcxproj -> C:\Users\Administrator\source\repos\openGl\Debug\openGl.exe
